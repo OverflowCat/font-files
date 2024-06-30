@@ -1,0 +1,31 @@
+{
+  "name": "@fontsource/xfont-name-placeholderx",
+  "version": "5.0.0",
+  "description": "Self-host the XFONT NAME PLACEHOLDERX font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "xfont-name-placeholderx",
+    "XFONT NAME PLACEHOLDERX",
+    "cjk",
+    "pixel font",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "TakWolf (https://takwolf.com)",
+  "license": "OFL-1.1",
+  "homepage": "https://fontsource.org/fonts/xfont-name-placeholderx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/other/xfont-name-placeholderx"
+  }
+}

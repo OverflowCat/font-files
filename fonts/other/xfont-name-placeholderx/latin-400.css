@@ -1,0 +1,8 @@
+/* xfont-name-placeholderx-latin-400-normal */
+@font-face {
+  font-family: 'XFONT NAME PLACEHOLDERX';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/xfont-name-placeholderx-latin-400-normal.woff2) format('woff2'), url(./files/xfont-name-placeholderx-latin-400-normal.woff) format('woff');
+}

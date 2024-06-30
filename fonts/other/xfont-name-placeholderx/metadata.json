@@ -1,0 +1,19 @@
+{
+  "id": "xfont-name-placeholderx",
+  "family": "XFONT NAME PLACEHOLDERX",
+  "subsets": ["latin", "chinese-simplified", "chinese-traditional", "japanese", "korean"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2024-06-30",
+  "version": "v114.514",
+  "category": "display",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://raw.githubusercontent.com/TakWolf/fusion-pixel-font/master/LICENSE-OFL",
+    "attribution": "TakWolf (https://takwolf.com)"
+  },
+  "source": "https://github.com/TakWolf/fusion-pixel-font",
+  "type": "other"
+}
